@@ -4,9 +4,9 @@ I would like to introduce you to my script application for generating passwords 
 ### Installation and use:
 1. `sudo apt update && sudo apt full-upgrade -y`
 
-2. `git clone https://github.com/prostixciber/passgen`
+2. `git clone https://github.com/prostixciber/Generys-passgen`
 
-3. `cd passgen`
+3. `cd Generys-passgen`
 
 4. `python3 ./generys.py`
 
