@@ -5,3 +5,7 @@ Installation and use:
 1. `sudo apt update && sudo apt full-upgrade -y`
 
 2. `git clone https://github.com/prostixciber/passgen`
+
+3. `cd passgen`
+
+4. `python3 ./generys.py`
